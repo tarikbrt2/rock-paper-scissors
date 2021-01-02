@@ -19,7 +19,8 @@ Very basic model for rock-paper-scissors game.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just open Jupyter notebook and you're good to go.
+Just open Jupyter notebook and you're good to go. 
+Don't forget to train your model before making predictions
 
 <!-- LICENSE -->
 ## License
